@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author barce
+ *
+ */
+module Boletim {
+}
